@@ -1,8 +1,8 @@
 package com.lgvalle.material_animations;
 
-import android.databinding.BindingAdapter;
-import android.support.annotation.ColorRes;
-import android.support.v4.graphics.drawable.DrawableCompat;
+import androidx.databinding.BindingAdapter;
+import androidx.annotation.ColorRes;
+import androidx.core.graphics.drawable.DrawableCompat;
 import android.widget.ImageView;
 
 import java.io.Serializable;

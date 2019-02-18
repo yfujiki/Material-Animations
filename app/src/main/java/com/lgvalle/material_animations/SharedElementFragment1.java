@@ -1,8 +1,9 @@
 package com.lgvalle.material_animations;
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v4.graphics.drawable.DrawableCompat;
+
+import androidx.core.graphics.drawable.DrawableCompat;
+import androidx.fragment.app.Fragment;
 import android.transition.ChangeBounds;
 import android.transition.Slide;
 import android.view.Gravity;
